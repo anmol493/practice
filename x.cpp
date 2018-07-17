@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include<algorithm>
 #include<string>
+#include<cstring>
 using namespace std;
 class help
 {
